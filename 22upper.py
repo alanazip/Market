@@ -1,0 +1,2 @@
+texto = "python"
+texto.upper()

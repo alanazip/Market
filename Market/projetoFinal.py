@@ -13,3 +13,5 @@ else:
         produto.append(str (input("Nome do Produto: \n")))
         numero.append((int(input("Número de série: \n"))))
         preco.append((float(input("Valor R$: \n"))))
+#REFAZER: colocar while para o cadastro de produtos
+#pesquisar nos antigos codigoos como fazer
